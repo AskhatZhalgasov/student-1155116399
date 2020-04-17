@@ -17,3 +17,5 @@ Rank | Language | Personal Thoughts
 3 | `Python`| A+. Do all coding interviews/LeetCode in Python. Super fast
 4 | `Shell Scripting Languages` | Necessary stuff to know
 5 | `Java`  | Too verbose for my liking. Very structured and intuitive though
+### Here's how I made this repo!
+![Screenshot](shell.png)
